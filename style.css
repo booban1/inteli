@@ -1,0 +1,72 @@
+.contained
+{
+    /* margin-top: 30px; */
+    max-width: 400px;
+    height: 600px;
+    margin: auto;
+    background-color: #3D464A;
+}
+
+.header-pane
+{
+    font-size: 20px;
+    margin-left: 0px;
+    color: #fff;
+    justify-content: center;
+    padding-top:  5px;
+    padding-left: 100px;
+    align-content: center;
+    width: 400px ;
+    height: 50px ;
+    background: #04364B;
+    justify-content: center;
+}
+
+.chat-box
+{
+    border: black;
+    line-height: 2px;
+    height: 40px;
+    width: 200px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    
+}
+.query-msg
+{
+    float: right;
+    width: auto;  
+    
+}
+.query-msg p
+{
+    background: #efefef;
+    color: #646464;
+    font-size: 14px;
+    float: right;
+ }
+.time
+{
+    color: #777;
+    /* display: block; */
+    font-size: 10px;
+    margin: 8px 0 0;
+}
+.feedback-msg
+{
+    float: left;
+}
+
+.feedback-msg p
+{
+    background: #2ECE92;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: 14px;
+    float: left;
+}
